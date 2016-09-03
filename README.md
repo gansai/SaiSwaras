@@ -12,3 +12,5 @@ create them on my own, I could not contribute consistently.
 
 Later, one of my friends told me that similar thing is already being done. I checked it out and it looked good and served the purpose.
 If you are interested, you can check it: http://media.radiosai.org/journals/vol_14/01JAN16/bhajan-tutor-Gajavadana-Gananatha-Natha.htm
+
+And I have discontinued this project.
